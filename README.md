@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 🌸
+
+💻 I'm a Computer Engineer and I want to share my projects on Github. 💻
 
 ![](https://github.com/neslihanpelinmetin/readMeGIF/blob/main/computerCat.gif)
 <!--
