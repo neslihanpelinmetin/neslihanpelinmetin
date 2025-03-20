@@ -1,21 +1,23 @@
-## Hi there 🌸
+# Hi there, I'm Neslihan Pelin Metin! 🌸  
 
-💻 I'm a Computer Engineer and I want to share my projects on Github. 💻
+## 💁🏻‍♀️ About Me  
+I am a **Computer Engineer** passionate about **Computer Vision, Artificial Intelligence, and Computational Imaging**. I am dedicated to expanding my expertise in **artificial intelligence, deep learning, and image processing** while also integrating business and engineering skills for impactful innovation.  
 
+👩🏻‍💻 Currently, I am working on:  
+- **Deep Learning & Computer Vision** projects with **PyTorch, OpenCV, and Hugging Face**  
+- Exploring **Computer Graphics** and **AI-driven applications**  
 
+## 📌 Projects  
+⭐️ **Computer Vision & Image Processing**  
+- [Computer-Vision-Image-Processing](https://github.com/neslihanpelinmetin/Computer-Vision-Image-Processing)  
+- [OpenCV-Bootcamp](https://github.com/neslihanpelinmetin/OpenCV-Bootcamp)  
+- [Digital-Image-Processing](https://github.com/neslihanpelinmetin/Digital-Image-Processing)  
+
+⭐️ **Python & AI Journey**  
+- [Python-Journey](https://github.com/neslihanpelinmetin/Python-Journey)  
+
+🚀 More projects in **Artificial Intelligence** and **Computer Graphics** coming soon!  
 
 ![](https://github.com/neslihanpelinmetin/readMeGIF/blob/main/computerCat.gif)
-<!--
-**neslihanpelinmetin/neslihanpelinmetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**✨💻 Happy coding!! 💻✨**
