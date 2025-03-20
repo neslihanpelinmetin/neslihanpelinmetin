@@ -14,9 +14,12 @@ I am a **Computer Engineer** who is passionate about **Computer Vision, Artifici
 - [Digital-Image-Processing](https://github.com/neslihanpelinmetin/Digital-Image-Processing)  
 
 ⭐️ **Python & AI Journey**  
-- [Python-Journey](https://github.com/neslihanpelinmetin/Python-Journey)  
+- [Python-Journey](https://github.com/neslihanpelinmetin/Python-Journey)
 
-🚀 More projects in **Artificial Intelligence** and **Computer Graphics** coming soon!  
+⭐️ **Computer Graphics**  
+- [Computer-Graphics](https://github.com/neslihanpelinmetin/Computer-Graphics)  
+
+🚀 More projects in **Artificial Intelligence** and **Computer Vision** coming soon!  
 
 ![](https://github.com/neslihanpelinmetin/readMeGIF/blob/main/computerCat.gif)
 
