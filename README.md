@@ -1,7 +1,7 @@
 # Hi there, I'm Neslihan Pelin Metin! 🌸  
 
 ## 💁🏻‍♀️ About Me  
-I am a **Computer Engineer** passionate about **Computer Vision, Artificial Intelligence, and Computational Imaging**. I am dedicated to expanding my expertise in **artificial intelligence, deep learning, and image processing** while also integrating business and engineering skills for impactful innovation.  
+I am a **Computer Engineer** who is passionate about **Computer Vision, Artificial Intelligence, and Computational Imaging**. I am dedicated to expanding my expertise in **machine intelligence, and image processing** while also integrating business and engineering skills for impactful innovation.  
 
 👩🏻‍💻 Currently, I am working on:  
 - **Deep Learning & Computer Vision** projects with **PyTorch, OpenCV, and Hugging Face**  
