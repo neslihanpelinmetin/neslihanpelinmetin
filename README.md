@@ -12,7 +12,7 @@ I am dedicated to expanding my expertise in **machine intelligence, and image pr
 - **Deep Learning & Computer Vision** projects with **PyTorch, OpenCV, and Hugging Face**  
 - Exploring **Computer Graphics** and **AI-driven applications**
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neslihanpelinmetin&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide=hlsl,shaderlab,glsl,cmake&hide_progress=false" alt="neslihanpelinmetin" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neslihanpelinmetin&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide=hlsl,shaderlab,glsl,cmake&hide_progress=false&title_color=fe019a" alt="neslihanpelinmetin" /></p>
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
@@ -54,10 +54,10 @@ I am dedicated to expanding my expertise in **machine intelligence, and image pr
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=neslihanpelinmetin&show_icons=true&theme=midnight-purple&count_private=true" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=neslihanpelinmetin&show_icons=true&theme=midnight-purple&count_private=true&title_color=fe019a&icon_color=fe019a&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=171 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neslihanpelinmetin&theme=midnight-purple" />
+  <img height=171 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neslihanpelinmetin&theme=midnight-purple&stroke=FFFFFF&ring=fe019a&fire=fe019a&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=fe019a&sideLabels=fe019a&card_height=175" />
 </a>
 
 ## 📌 Projects  
