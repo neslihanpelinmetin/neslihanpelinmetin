@@ -66,11 +66,6 @@ I am dedicated to expanding my expertise in **machine intelligence, and image pr
 • [OpenCV-Bootcamp](https://github.com/neslihanpelinmetin/OpenCV-Bootcamp)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐️ **Computer Graphics**  
 • [Digital-Image-Processing](https://github.com/neslihanpelinmetin/Digital-Image-Processing)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • [Computer-Graphics](https://github.com/neslihanpelinmetin/Computer-Graphics)
 
-⭐️ **Computer Graphics**  
-- [Computer-Graphics](https://github.com/neslihanpelinmetin/Computer-Graphics)
-
-
-
 🚀 More projects in **Artificial Intelligence** and **Computer Vision** coming soon!  
 
 <div align="center">
