@@ -1,8 +1,5 @@
-<div align="center">
-
 # Hi there, I'm Neslihan Pelin Metin! 🌸
 
-</div>
 
 ## 💁🏻‍♀️ About Me  
 I am a **Computer Engineer** who is passionate about **Computer Vision, Artificial Intelligence, and Computational Imaging**.  
