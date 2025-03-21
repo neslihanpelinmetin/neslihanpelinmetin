@@ -57,7 +57,7 @@ I am dedicated to expanding my expertise in **machine intelligence, and image pr
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=neslihanpelinmetin&show_icons=true&theme=midnight-purple&count_private=true&title_color=fe019a&icon_color=fe019a&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=171 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neslihanpelinmetin&theme=midnight-purple&stroke=FFFFFF&ring=fe019a&fire=fe019a&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=fe019a&sideLabels=fe019a&card_height=175" />
+  <img height=171 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neslihanpelinmetin&theme=midnight-purple&stroke=FFFFFF&ring=fe019a&fire=fe019a&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=fe019a&sideLabels=fe019a" />
 </a>
 
 ## 📌 Projects  
