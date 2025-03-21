@@ -61,16 +61,15 @@ I am dedicated to expanding my expertise in **machine intelligence, and image pr
 </a>
 
 ## 📌 Projects  
-⭐️ **Computer Vision & Image Processing**  
-- [Computer-Vision-Image-Processing](https://github.com/neslihanpelinmetin/Computer-Vision-Image-Processing)  
-- [OpenCV-Bootcamp](https://github.com/neslihanpelinmetin/OpenCV-Bootcamp)  
-- [Digital-Image-Processing](https://github.com/neslihanpelinmetin/Digital-Image-Processing)  
-
-⭐️ **Python & AI Journey**  
-- [Python-Journey](https://github.com/neslihanpelinmetin/Python-Journey)
+⭐️ **Computer Vision & Image Processing** &emsp;&emsp;&emsp;&emsp;&emsp;⭐️ **Python & AI Journey**  
+• [Computer-Vision-Image-Processing](https://github.com/neslihanpelinmetin/Computer-Vision-Image-Processing)    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   • [Python-Journey](https://github.com/neslihanpelinmetin/Python-Journey)  
+• [OpenCV-Bootcamp](https://github.com/neslihanpelinmetin/OpenCV-Bootcamp)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐️ **Computer Graphics**  
+• [Digital-Image-Processing](https://github.com/neslihanpelinmetin/Digital-Image-Processing)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • [Computer-Graphics](https://github.com/neslihanpelinmetin/Computer-Graphics)
 
 ⭐️ **Computer Graphics**  
-- [Computer-Graphics](https://github.com/neslihanpelinmetin/Computer-Graphics)  
+- [Computer-Graphics](https://github.com/neslihanpelinmetin/Computer-Graphics)
+
+
 
 🚀 More projects in **Artificial Intelligence** and **Computer Vision** coming soon!  
 
