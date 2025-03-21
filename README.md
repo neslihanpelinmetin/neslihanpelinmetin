@@ -10,7 +10,53 @@ I am dedicated to expanding my expertise in **machine intelligence, and image pr
 
 👩🏻‍💻 Currently, I am working on:  
 - **Deep Learning & Computer Vision** projects with **PyTorch, OpenCV, and Hugging Face**  
-- Exploring **Computer Graphics** and **AI-driven applications**  
+- Exploring **Computer Graphics** and **AI-driven applications**
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neslihanpelinmetin&show_icons=true&locale=en&layout=compact&theme=radical&hide=hlsl,shaderlab,glsl,cmake&hide_progress=false" alt="neslihanpelinmetin" /></p>
+
+<h3 align="left">Languages & Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> 
+  </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> 
+  </a> 
+  <br>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a> 
+</p>
+
+
+
+<div align="center">
+  <img height="300" src="https://streak-stats.demolab.com/?user=neslihanpelinmetin&theme=radical" />
+</div>
 
 ## 📌 Projects  
 ⭐️ **Computer Vision & Image Processing**  
@@ -25,28 +71,6 @@ I am dedicated to expanding my expertise in **machine intelligence, and image pr
 - [Computer-Graphics](https://github.com/neslihanpelinmetin/Computer-Graphics)  
 
 🚀 More projects in **Artificial Intelligence** and **Computer Vision** coming soon!  
-
-## 🔧 Languages & Tools  
-
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" /><br>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c" /><br>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java" /><br>
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp" /><br>
-    <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv" /><br>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch" /><br>
-    <img src="https://img.shields.io/badge/HuggingFace-FFD54F?style=flat&logo=huggingface" /><br>
-  </div>
-  <div>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neslihanpelinmetin&layout=compact&theme=light" />
-  </div>
-</div>
-
-
-<div align="center">
-  <img height="300" src="https://streak-stats.demolab.com/?user=neslihanpelinmetin&theme=light" />
-</div>
 
 <div align="center">
 
