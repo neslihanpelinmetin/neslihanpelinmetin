@@ -2,7 +2,7 @@
 
 
 ## 💁🏻‍♀️ About Me  
-My name is **Neslihan Pelin** and I am a **Computer Engineer** who is passionate about **Computer Vision, Artificial Intelligence, and Computational Imaging**. I am dedicated to expanding my expertise in **machine intelligence, and image processing** while also integrating business and engineering skills for impactful innovation.  
+My name is **Neslihan Pelin** and I am a **Computer Engineer** who is passionate about **Computer Vision, Artificial Intelligence, and Computational Imaging**. I am dedicated to expanding my expertise in **artificial intelligence, and image processing** while also integrating business and engineering skills for impactful innovation.  
 
 👩🏻‍💻 Currently, I am working on:  
 - **Deep Learning & Computer Vision** projects with **PyTorch, OpenCV, and Hugging Face**  
