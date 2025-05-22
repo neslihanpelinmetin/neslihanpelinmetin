@@ -8,7 +8,7 @@ My name is **Neslihan Pelin** and I am a **Computer Engineer** who is passionate
 - **Deep Learning & Computer Vision** projects with **PyTorch, OpenCV, and Hugging Face**  
 - Exploring **Computer Graphics** and **AI-driven applications**
 
-## 📌 My Projects  
+## 💻 My Projects  
 ⭐️ **Computer Vision & Image Processing** &emsp;&emsp;&emsp;&emsp;&emsp;⭐️ **Python & AI Journey**  
 • [Computer-Vision-Image-Processing](https://github.com/neslihanpelinmetin/Computer-Vision-Image-Processing)    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   • [Python-Journey](https://github.com/neslihanpelinmetin/Python-Journey)  
 • [OpenCV-Bootcamp](https://github.com/neslihanpelinmetin/OpenCV-Bootcamp)  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐️ **Computer Graphics**  
