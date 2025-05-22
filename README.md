@@ -61,6 +61,7 @@ My name is **Neslihan Pelin** and I am a **Computer Engineer** who is passionate
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=171 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neslihanpelinmetin&theme=midnight-purple&stroke=FFFFFF&ring=fe019a&fire=fe019a&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=fe019a&sideLabels=fe019a" />
 </a>
+<br>
 
 <div align="center">
 
