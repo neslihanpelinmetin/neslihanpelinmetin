@@ -56,7 +56,7 @@ My name is **Neslihan Pelin** and I am a **Computer Engineer** who is passionate
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
   </a> 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> 
+    <img src="https://github.com/neslihanpelinmetin/readMeGIF/blob/main/Canva-Logo-PNG.png" alt="canva" width="40" height="40"/> 
   </a> 
 </p>
 
