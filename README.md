@@ -16,7 +16,7 @@ My name is **Neslihan Pelin** and I am a **Computer Engineer** who is passionate
 
 🚀 More projects in **Artificial Intelligence** and **Computer Vision** coming soon!  
 
-## 📌 Languages & Tools
+## 📌 Used Languages & Tools 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neslihanpelinmetin&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide=hlsl,shaderlab,glsl,cmake&hide_progress=false&title_color=fe019a" alt="neslihanpelinmetin" /></p>
 
 <p align="left"> 
