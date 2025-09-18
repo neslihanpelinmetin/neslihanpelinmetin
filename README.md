@@ -17,7 +17,6 @@ My name is **Neslihan Pelin** and I am a **Computer Engineer** who is passionate
 🚀 More projects in **Artificial Intelligence** and **Computer Vision** coming soon!  
 
 ## 📌 Used Languages & Tools 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neslihanpelinmetin&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide=hlsl,shaderlab,glsl,cmake&hide_progress=false&title_color=fe019a" alt="neslihanpelinmetin" /></p>
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -61,13 +60,6 @@ My name is **Neslihan Pelin** and I am a **Computer Engineer** who is passionate
 </p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=neslihanpelinmetin&show_icons=true&theme=midnight-purple&count_private=true&title_color=fe019a&icon_color=fe019a&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=171 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neslihanpelinmetin&theme=midnight-purple&stroke=FFFFFF&ring=fe019a&fire=fe019a&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=fe019a&sideLabels=fe019a" />
-</a>
-<br>
 
 <div align="center">
 
