@@ -31,7 +31,6 @@ My name is **Neslihan Pelin** and I am a **Computer Engineer** who is passionate
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
-  <br>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
@@ -44,7 +43,6 @@ My name is **Neslihan Pelin** and I am a **Computer Engineer** who is passionate
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
   </a> 
